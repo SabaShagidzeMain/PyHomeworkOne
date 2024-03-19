@@ -1,7 +1,6 @@
 # Calculate the body mass index of two people
 # print out their bmi and compare them
 # BMI = kg/m^2
-# import math as m
 
 nameOne = input("name of person one")
 weightOne = int(input("weight of person one in kgs"))
